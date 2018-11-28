@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 3px;
+  box-sizing: border-box;
+}
+header {
+  font-size: 30px;
+
+}
+.pair {
+  display: flex;
+  justify-content: center;
+}
+.form-row {
+ width: 50%;
+}
+.full-form-row {
+  padding-left: 5px;
+  width: 100%;
+}
+label {
+  display: block;
+}
+input{
+  width: 50%;
+}
+input.full {
+  width: 75%;
+}
+.star {
+  color:red;
+}
+.line {
+  font-size: 1px;
+  
+}
